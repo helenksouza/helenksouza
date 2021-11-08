@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helenksouza
 - 👀 I’m interested in AI, Data Science, Machine Learning.
-- 🌱 I’m currently learning genetic algorithm.
+- 🌱 I’m currently learning genetic algorithm on my reasearch at university.
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/helenkarensouza/
 
 <!---
